@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DARKCRIME1/xmas.git"
+    "url": "git+https://github.com/TECHVISIONLK/V4.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,8 +17,8 @@
     "T-REX",
     "T-REX WA"
   ],
-  "author": "Hiruwa",
-  "developer": "@Hiruwa / @Hiruwa",
+  "author": "TECHVISIONLK",
+  "developer": "@TECHVISIONLK / @TECHVISIONLK",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Dark-Knight-Hiruwa/T-REX/issues"
