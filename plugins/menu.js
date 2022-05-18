@@ -1,10 +1,3 @@
-/* Copyright (C) 2021 T REX
-Licensed under the  GPL-3.0 License;
-you may not use this file except in compliance with the License.
-HIRUWA - TREX
-උස්සන්නද ආවෙ අම්මට හුකෝගන්නෙ නැතුව පල පොන්නයා 😂👿
-*/
-
 const Trex = require('../events');
 const {MessageType, GroupSettingChange, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
 const fs = require('fs');
@@ -39,9 +32,9 @@ if (hrs >= 17 && hrs <= 19) wish = '*ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ 🌥*'
 if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
     
     const rows = [
-        {title: '⎝🛡️ ALL MENU 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
+        {title: 'Menu _Beta_', description: `▷▷▷▷▷▷\n\n\n
  ╭────────────────
- │ ⎝🛡️ ALPHA 🛡️⎠
+ │ TEA BOT
  ╰────────────────
  ╭────────────────
  │ Hello ▷ Dear
@@ -1049,9 +1042,9 @@ Example : .covid Sri Lanka°
  │
  ╰────────────────
 `, rowId:"rowid8"},
-        {title: '⎝🛡️ABOUT Alpha BOT 🛡️⎠ ', description: `▷▷▷▷▷▷\n\n\n
-🖲️ Developer : Achiya
-🖲️ Bot             : ⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0
+        {title: '*About TEA BOT', description: `▷▷▷▷▷▷\n\n\n
+🖲️ Developer : Saviru
+🖲️ Version : TEA BOT v1.22.5.0 (beta)
 🖲️ Language : Sinhala & English
 🖲️ Sponcer Team : PEARL TEAM SRI LANKA
 🖲️ Develop language : Node js
@@ -1064,11 +1057,11 @@ Example : .covid Sri Lanka°
         {title: '⎝🛡️ Work Type PRIVATE🛡️⎠', description:"▷▷▷▷▷▷\n\n\n Type .private to private mode ▷", rowId:"rowid2"}
        ]
        
-       const sections = [{title: "⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL. 📛", rows: rows}]
+       const sections = [{title: "TEA BOT CMD 🖲️ PANEL. 📛", rows: rows}]
        
        const button = {
         buttonText: 'Click Me▷',
-        description: `⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL. 📛`,
+        description: `TEA BOT CMD 🖲️ PANEL. 📛`,
         sections: sections,
         listType: 1
        }
@@ -1103,9 +1096,9 @@ if (hrs >= 17 && hrs <= 19) wish = '*ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ 🌥*'
 if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
     const rows = [
-        {title: '⎝🛡️ ALL MENU 🛡️⎠', description: `▷▷▷▷▷~\n\n\n
+        {title: 'MENU _Beta)', description: `▷▷▷▷▷~\n\n\n
  ╭────────────────
- │ ⎝🛡️ ALPHA 🛡️⎠
+ │ TEA BOT
  ╰────────────────
  ╭────────────────
  │ Hello ▷ Dear
