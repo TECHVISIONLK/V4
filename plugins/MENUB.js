@@ -43,7 +43,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
     const rows = [
         {title: '⎝🛡️ ALL MENU 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
  ╭────────────────
- │ ⎝🛡️ ALPHA 🛡️⎠
+ │ TEA BOT _Beta_
  ╰────────────────
  ╭────────────────
  │ Hello ▷ Dear
@@ -226,12 +226,11 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
           🖲️ POWERD BY 🖲️
-          ⎝🛡️ ALPHA 🛡️⎠
-     🖲️       Achiya        🖲️
+          TECHVISION LK
 ` , rowId:"rowid1"},
         {title: '⎝🛡️ ADVANCE MENU 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
-         ⎝🛡️ ALPHA 🛡️⎠ 
+         TEA BOT _Beta_ 
 ═════════════════════════
 🖲️ Command: °.xmedia°
 ➢ Description: °A plugin that have 25 media tools.°
@@ -295,9 +294,9 @@ Example : .covid Sri Lanka°
 🖲️ Command: °.video°
 ➢ Description: °Downloading videos from YouTube°
 🖲️ Command: °.insta°
-➢ Description: °🖲️➢ ⎝🛡️ ALPHA 🛡️⎠  Download instagram videos.°
+➢ Description: °🖲️➢ TEA BOT _Beta_  Download instagram videos.°
 🖲️ Command: °.fb°
-➢ Description: °🖲️➢ ⎝🛡️ ALPHA 🛡️⎠  Download Facebook videos.°
+➢ Description: °🖲️➢ TEA BOT _Beta_  Download Facebook videos.°
 🖲️ Command: °.trt°
 ➢ Description: °It translates with Google Translator. You must mention any message.°
 ⌨️ Example: °.trt en si (From English to Sinhala)°
@@ -404,7 +403,7 @@ Example : .covid Sri Lanka°
 `, rowId:"rowid4"},
         {title: '⎝🛡️ FF PACK 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
-║         ⎝🛡️ ALPHA 🛡️⎠  
+║         TEA BOT _Beta_  
 ║         ║🖲️╚FF PACK╝🖲️║
 ║
 ╠═➢ 🖲️.ff9       ❴your text❵
@@ -524,17 +523,17 @@ Example : .covid Sri Lanka°
 │  ◎Android Emulator Form Pc =.em
 │
 │         🖲️POWERD BY🖲️
-│        ⎝🛡️ ALPHA 🛡️⎠
+│        TECHVISION LK _Beta_
 ╰──────────────
 `, rowId:"rowid6"},
         {title: '⎝🛡️ Apk Store 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
-║         ⎝🛡️ ALPHA 🛡️⎠   
+║         TEA BOT _Beta_   
 ║        ║🖲️╚APK STORE╝🖲️║
 ║
 ║    Coming Soon
 ║
-║ ⎝🛡️ ALPHA 🛡️⎠   
+║ TEA BOT _Beta_   
 ╚═════════════════════╝
 `, rowId:"rowid20"},
         {title: '⎝🛡️ DOWNLOADER 🛡️⎠', description: `▷▷▷▷▷▷\n\n\n
@@ -554,21 +553,20 @@ Example : .covid Sri Lanka°
  │
  ╰────────────────
 `, rowId:"rowid9"},
-        {title: '⎝🛡️ABOUT Alpha BOT 🛡️⎠', description:`▷▷▷▷▷▷\n\n\n
+        {title: '🛡️ABOUT TEA BOT _Beta_', description:`▷▷▷▷▷▷\n\n\n
 🖲️ Developer : Achiya
-🖲️ Bot             : ⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0
-🖲️ Language : Sinhala & English
-🖲️ Sponcer Team : PEARL TEAM SRI LANKA
-🖲️ Develop language : Node js
-🖲️ Developer no : http://wa.me/+94720603183
+🖲️ Bot             : TEA BOT _Beta_ WhatsApp User Bot v4.0.0
+🖲️ Language : Node.js
+🖲️ Sponcer Team : TECHVISION LK
+🖲️ Developer no : http://wa.me/+94703191211
 `, rowId:"rowid2"}
        ]
        
-       const sections = [{title: "⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL. 📛", rows: rows}]
+       const sections = [{title: "TEA BOT _Beta_ CMD 🖲️ PANEL. 📛", rows: rows}]
        
        const button = {
         buttonText: 'Click Me▷',
-        description: "⎝🛡️ ALPHA 🛡️⎠ CMD 🖲️ PANEL. 📛",
+        description: "TEA BOT _Beta_ CMD 🖲️ PANEL. 📛",
         sections: sections,
         listType: 1
        }
@@ -606,7 +604,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
     const rows = [
         {title: '⎝🛡️ ALL MENU 🛡️⎠ ', description: `▷▷▷▷▷▷\n\n\n
 ╭────────────────
- │ ⎝🛡️ ALPHA 🛡️⎠
+ │ TEA BOT _Beta_
  ╰────────────────
  ╭────────────────
  │ Hello ▷ Dear
